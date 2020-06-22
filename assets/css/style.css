@@ -43,15 +43,16 @@ header nav ul li a:hover {
     color: #AD4A3D;
 }
 
-.section-title {
+.section-title h2 {
     padding: 40px;
-    color: #FA8071;
+    color: rgb(50, 190, 180);
     font-size: 30px;
 }
 
-p {
+.section-title p {
     padding: 0 50px 10px 50px;
     font-size: 25px;
+    color: #FA8071;
 }
 
 footer h2 {
