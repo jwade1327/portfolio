@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #456FAD;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+header {
+    padding: 30px 40px;
+    background-image: url("../images/blue-green-coral-color-mix.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    padding: 50px 0 50px 0;
+    color: #FA8071;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 8px 8px 8px #AD4A3D;
+}
+
+header nav ul {
+    flex-wrap: wrap;
+    font-size: 38px;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header nav ul li a {
+    color: #FA8071;
+    font-weight: lighter;
+}
+
+header nav ul li a:hover {
+    color: #AD4A3D;
+}
+
+.section-title {
+    padding: 40px;
+    color: #FA8071;
+    font-size: 30px;
+}
+
+p {
+    padding: 0 50px 10px 50px;
+    font-size: 25px;
+}
+
+footer h2 {
+    padding: 28px;
+    color: #FA8071;
+    text-align: center;
+}
+
